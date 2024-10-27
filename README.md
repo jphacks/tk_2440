@@ -39,7 +39,7 @@
 ## 開発技術
 ### 活用した技術
 #### API・データ
-*RealtimeAPI 
+* RealtimeAPI 
 
 #### フレームワーク・ライブラリ・モジュール
 * React.js
